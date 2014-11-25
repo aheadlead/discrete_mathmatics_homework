@@ -1,4 +1,7 @@
 /*
+ * https://github.com/aheadlead/discrete_mathmatics_homework
+ * 作者aheadlead
+ *
  * 算法：
  *      对于图G(V, E)
  *      1   任取一点v0∈V(G), 令P0=v0;
